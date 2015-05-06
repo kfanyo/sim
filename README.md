@@ -1,0 +1,2 @@
+# sim
+Forex simulator
